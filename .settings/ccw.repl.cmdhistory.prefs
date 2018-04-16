@@ -1,0 +1,2 @@
+cmdhistory=["(print-table [\:id \\"x\\" \:concepts \\"y\\"])" "(\:use clojure.pprint)(print-table [\:id \\"x\\" \:concepts \\"y\\"])" "(use 'clojure.pprint)" "(print-table [\:b \:a] [{\:a 1 \:b 2 \:c 3} {\:b 5 \:a 7 \:c \\"dog\\"}])" "(println (slurp \\"event.log\\"))" "(println (slurp \\"output.txt\\"))" "(println (slurp \\"outp.txt\\"))" "(type final)" "final" "finaldata" "(type finaldata)" "final" "(type final)" "flag" "(println flag)"]
+eclipse.preferences.version=1
